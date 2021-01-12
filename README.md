@@ -1,6 +1,9 @@
 
 #GNU Style Custom head & tail CLI Tools
 
+
+```
+bash
 ./my-head --help
 ./my-head --version
 
@@ -13,3 +16,4 @@
 
 ./my-tail -n 19 -v deneme.txt my-tail.c
 ./my-tail -c 15 -v deneme.txt
+```

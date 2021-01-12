@@ -1,6 +1,7 @@
 
-#GNU Style Custom head & tail CLI Tools
+#GNU Style Custom 'head' & 'tail' CLI Tools
 
+CLI option parser is 'getopt.h' library in C lang.
 
 ```console
 ./my-head --help

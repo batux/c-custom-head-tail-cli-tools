@@ -2,8 +2,7 @@
 #GNU Style Custom head & tail CLI Tools
 
 
-```
-bash
+```console
 ./my-head --help
 ./my-head --version
 
